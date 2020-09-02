@@ -15,6 +15,10 @@
 *.bc
 /external
 .vs/
+*.vcxproj
 *.vcxproj.user
+
+/bin/
+/bin-int/
 
 !CMakeLists.txt
